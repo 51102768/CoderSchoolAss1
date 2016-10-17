@@ -19,6 +19,9 @@ Completed:
 npm install (if have not installed node_modules yet)
 ```
 
+##Walkthrough Gif:
+![Video Walkthrough](ass1.gif)
+
 ##Provide permission:
 Example
 ```bash
